@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-kn"
+VERSION=4.7.4
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Kannada translation files"
+DESCRIPTION="KDE Kannada translation files"
